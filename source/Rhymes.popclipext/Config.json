@@ -1,0 +1,14 @@
+{
+  "name": "Rhymes",
+  "identifier": "com.alperkara.popclip.rhymes",
+  "description": "Rhymes for the selected word, ranked the way poets use them. Works offline.",
+  "keywords": "rhyme rhymes rhyming poetry poem poet verse lyric lyrics songwriting slant assonance dictionary thesaurus writing",
+  "icon": "symbol:music.note",
+  "popclipVersion": 5992,
+  "macosVersion": "13.0",
+  "entitlements": [
+    "dynamic"
+  ],
+  "module": "rhymes.js",
+  "regex": "^\\s*[A-Za-z][A-Za-z'’]*\\s*$"
+}

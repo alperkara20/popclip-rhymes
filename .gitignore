@@ -1,0 +1,7 @@
+# Source corpora for the index build -- large, and fetched on demand by
+# build/fetch-sources.sh rather than committed.
+build/cmudict.dict
+build/count_1w.txt
+build/poetry.ndjson.gz
+build/poetry_stats.json
+.DS_Store
